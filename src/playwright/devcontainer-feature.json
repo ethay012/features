@@ -1,0 +1,16 @@
+{
+    "name": "Playwright",
+    "id": "playwright",
+    "version": "1.0.0",
+    "description": "This Feature installs the latest version of Playwright with all of it's browsers.",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-playwright.playwright"
+            ]
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
