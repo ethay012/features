@@ -1,0 +1,9 @@
+{
+    "name": "Specmatic",
+    "id": "specmatic",
+    "version": "1.0.0",
+    "description": "This Feature installs the latest version of Specmatic CLI.",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
